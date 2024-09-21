@@ -63,7 +63,7 @@ class HomePageState extends State<HomePage> {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            "PRIME NEWS",
+            "AMS NEWS",
             style: TextStyle(fontWeight: FontWeight.bold),
           ),
           actions: [
